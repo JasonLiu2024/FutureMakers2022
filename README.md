@@ -1,4 +1,4 @@
-# about FutureMakers2022
+# About FutureMakers2022:
 This repository contains files I worked on during the FutureMakers program by SureStart in summer 2022. In the first part of the program, I attended lectures and completed coding homework. In the second part (Create-a-thon), my team and I worked on Legal Linguists, a translation tool. We presented this result in a pitch meeting hosted by MIT, and out of 16 competing teams, we won the grand prize. 
 
 # Files:

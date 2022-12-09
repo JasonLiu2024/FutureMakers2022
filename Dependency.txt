@@ -1,1 +1,12 @@
-
+//by running the following Python commands, you
+!apt-get install ocrmypdf -q
+!pip install pdfplumber -q
+import os
+import requests
+import pdfplumber
+import re
+import pandas as pd
+import numpy as np
+import collections
+import csv
+from csv import reader

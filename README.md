@@ -35,16 +35,27 @@ This is the Setup instructions for the OCR module for Legal Linguists, written i
 # Dependency:
 (for LegalLinguists_OCR_Module.ipynb)
 The OCR module has the following dependencies:
+  
   ocrmypdf
+  
   pdfplumber
+  
   os
+  
   requests
+  
   pdfplumber
+  
   re
+  
   pandas
+  
   numpy
+  
   collections
+  
   csv
+  
   reader (from csv)
 
 

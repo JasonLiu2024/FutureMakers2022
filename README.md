@@ -23,7 +23,7 @@ Prototype for the OCR_Module project; I used pdf2image and easyocr. This method 
   5. Dependency.txt
   A list of commands to install all modules needed to run LegalLinguists_OCR_Module.ipynb.
 
-# Setup and How to Run
+# Setup and How to Run:
 (for LegalLinguists_OCR_Module.ipynb)
 This is the Setup instructions for the OCR module for Legal Linguists, written in Python 3.8.16. This module converts scanned pdfs into text (so that their content gets translated).
   1. Install all required modules using commands in Dependency.txt
@@ -32,7 +32,7 @@ This is the Setup instructions for the OCR module for Legal Linguists, written i
   4. View the OCR module's output at the bottom of the Collab notebook.
   For an explanation for the code, please see the comments in the ipynb file.
 
-# Dependency
+# Dependency:
 (for LegalLinguists_OCR_Module.ipynb)
 The OCR module has the following dependencies:
   ocrmypdf

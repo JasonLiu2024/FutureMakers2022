@@ -3,7 +3,7 @@ This repository contains files I worked on during the FutureMakers program by Su
 In the first part of the program, I attended lectures and completed coding homework. 
 In the second part (Create-a-thon), my team and I worked on Legal Linguists, a translation tool. We presented this result in a pitch meeting hosted by MIT, and out of 16 competing teams, we won the grand prize. 
 
-# High Level Design:
+# High Level Design (for Legal Linguists):
 1. What is Legal Linguists:
 
 Legal Linguists is a translation tool for legal documents. It is designed for people who do not grow up speaking English, such as immigrants.
